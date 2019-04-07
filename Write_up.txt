@@ -22,7 +22,7 @@ The output will be the following format:
 .......
 2019-04-05 13:20:22 --> Bank Simulated Ended
 
-WRITE UP ---------------------------------------------------------------  
+-----------------------------------------------------------------------------------------------------------------------  
 
 1]Data structure - 
 				  Mutex - to Lock and UnLock the customers..
