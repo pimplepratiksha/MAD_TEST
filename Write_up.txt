@@ -27,6 +27,7 @@ WRITE UP ---------------------------------------------------------------
 1]Data structure - 
 				  Mutex - to Lock and UnLock the customers..
 				  go routines - for the customers and cashiers..
+				  channels - to run cashiers simultaneously...
 2]go routines - 
                   numOfCashiers() - will put lock on customer so that one customer will get updated at a time..and other cashier                         				                      will know about it..so it will take next customer in a queue.
                   numOfCustomers() - will simply run through the n number of customers and call the numOfCashiers...
